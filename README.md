@@ -1,4 +1,4 @@
-# Data_Science_-_Analytics
+# Data Science & Analytics
 
 
 [ENews Express](https://htmlpreview.github.io/?https://github.com/jmanchella/Data_Science_-_Analytics/blob/master/ENewsExpress_Project.html)
